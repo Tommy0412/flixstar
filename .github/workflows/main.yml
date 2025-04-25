@@ -51,8 +51,8 @@ jobs:
         run: flutter pub get
 
       # Build APK
-      - name: Build APK
-        run: flutter build apk --release --split-per-abi
+      #- name: Build APK
+        #run: flutter build apk --release --split-per-abi
 
       # Build Web
       - name: Build Web
