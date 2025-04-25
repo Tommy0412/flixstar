@@ -35,7 +35,6 @@ migration:
       base_revision: a14f74ff3a1cbd521163c5f03d68113d50af93d3
 
   # User provided section
-
   # List of Local paths (relative to this file) that should be
   # ignored by the migrate tool.
   #
